@@ -1,0 +1,20 @@
+.Home {
+    width: 100vw;
+    min-height: 100vh;
+    border: 1px solid #333;
+}
+
+.Home > h1 {
+    font-size: calc(30px + 10vw);
+    font-weight: 900;
+    margin: 20vh auto 0 auto;
+    text-align: center;
+    text-shadow: 0 10px 15px rgba(40,40,40,0.2);
+    color: #212126;
+}
+
+.action-button {
+    margin: auto;
+    width: 170px;
+    margin-top: 5vh;
+}
